@@ -1,4 +1,4 @@
-A React frontend for a contact keeper application
+A React frontend for a contact keeper application. Connects to a Django backend using Django-rest.
 
 # Getting Started with Create React App
 
